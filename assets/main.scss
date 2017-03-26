@@ -1,0 +1,64 @@
+---
+---
+
+@import "normalize";
+
+body {
+  background: #264073;
+  color: #f0f0f0;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: 300;
+
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+p {
+  line-height: 150%;
+}
+
+h1, h2, h3 {
+  font-family: Montserrat;
+}
+
+a {
+  color: #90f0e8;
+  text-decoration: none;
+  &:hover {
+    background: #90f0e8;
+    color: #264073;
+  }
+}
+
+header {
+  h1 {
+    font-weight: 300;
+    text-align: center;
+    line-height: 170%;
+    margin-bottom: 1em;
+
+    strong { font-weight: 700; }
+  }
+
+  svg {
+    margin: 0 auto;
+    display: block;
+    fill: white;
+  }
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 2em;
+  p { line-height: 12px; }
+  span.made-in-spain {
+    background-image: url('spain.png');
+    background-size: 16px 12px;
+    background-repeat: no-repeat;
+    background-position: center left;
+    padding-left: 20px;
+  }
+}

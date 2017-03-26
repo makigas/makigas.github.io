@@ -1,0 +1,14 @@
+title: Open Source at makigas
+description: This is our GitHub Pages site with information on the open source projects that power makigas.
+baseurl: ""
+url: "https://makigas.github.io"
+twitter_username: makigas
+github_username:  makigas
+repository: makigas/makigas.github.io
+
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,15 @@
+- name: makigas
+  url: https://github.com/makigas/makigas
+  description: Aplicación web hecha en Rails usada como página web, buscador de vídeos y gestor de contenido, así como el panel de control usado para registrar vídeos y listas de reproducción en el sistema.
+
+- name: testcard
+  url: https://github.com/makigas/testcard
+  description: Carta de ajuste compatible con el plug-in Browsersource de OBS para mostrar un reloj con el que calibrar la imagen antes de una emisión en directo.
+
+- name: ticker
+  url: https://github.com/makigas/ticker
+  description: Fuente HTML para el plugin Browsersource de OBS que contiene el ticker con mensajes que se muestra en uno de los bordes de los directos.
+
+- name: live
+  url: https://github.com/makigas/live
+  description: Aplicación web usada para que podáis hacer preguntas que queráis que se traten en los directos y votar las que sean más relevantes para hacer que sean más probables que las lea.
