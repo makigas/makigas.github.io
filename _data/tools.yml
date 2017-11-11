@@ -6,10 +6,10 @@
   url: https://github.com/makigas/testcard
   description: Carta de ajuste compatible con el plug-in Browsersource de OBS para mostrar un reloj con el que calibrar la imagen antes de una emisión en directo.
 
+- name: clank
+  url: https://github.com/makigas/clank
+  description: Bot para Discord que responde tus dudas, encuentra tutoriales y listas de reproduccin, y hace la experiencia en Discord más entretenida.
+
 - name: ticker
   url: https://github.com/makigas/ticker
   description: Fuente HTML para el plugin Browsersource de OBS que contiene el ticker con mensajes que se muestra en uno de los bordes de los directos.
-
-- name: live
-  url: https://github.com/makigas/live
-  description: Aplicación web usada para que podáis hacer preguntas que queráis que se traten en los directos y votar las preguntas más interesantes para que salgan antes y las lea antes.
