@@ -10,7 +10,3 @@ updates:
   - danirod
   assignees:
   - danirod
-  ignore:
-  - dependency-name: github-pages
-    versions:
-    - "213"
