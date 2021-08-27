@@ -3,10 +3,6 @@ updates:
 - package-ecosystem: bundler
   directory: "/"
   schedule:
-    interval: daily
-    time: "00:00"
-  open-pull-requests-limit: 99
-  reviewers:
-  - danirod
+    interval: monthly
   assignees:
-  - danirod
+    - danirod
